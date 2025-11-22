@@ -1,4 +1,4 @@
-git rm -r --cached .
-git add .
-git commit -m "Added gitignore and cleaned sensitive files"
-git push
+[1] git rm -r --cached .
+[2] git add .
+[3] git commit -m "Added"
+[4] git push
